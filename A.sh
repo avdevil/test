@@ -1,3 +1,3 @@
 #coded by avhacker
-
-printf "\e[1;93m[!]you were hacked by avdevil
+#Avinash
+printf "\e[1;93m[!]you were hacked by devil.\n\e[0m"    
