@@ -1,2 +1,3 @@
 #coded by avhacker
- print('hacked')
+
+printf "\e[1;93m[!]you were hacked by avdevil
