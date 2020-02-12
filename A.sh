@@ -6,13 +6,13 @@ if [ $hours-le 12 ]
 then
 echo "good morning"
 else
-If [ $hours -le 16 ]
-Then
+if [ $hours -le 16 ]
+then
 echo "good afternoon"
 elif [ $hours-le 20 ]
 then
 echo "good evening"
-elif
+elie
 echo "good night"
 fi
 fi
