@@ -12,7 +12,7 @@ echo "good afternoon"
 elif [ $hours-le 20 ]
 then
 echo "good evening"
-elif
+else
 echo "good night"
 fi
 fi
